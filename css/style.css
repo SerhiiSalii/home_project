@@ -1,0 +1,63 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav__list {
+    display: flex;
+    flex-direction: row;
+}
+
+.main__banner {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main__banner_images {
+    display: flex;
+    flex-direction: column;
+}
+
+.main__container__info {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container__list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.description__advantages {
+    display: flex;
+    justify-content: space-around;
+}
+
+.description_text {
+    display: flex;
+    flex-direction: column;
+}
+
+.address__bloc {
+    display: flex;
+    justify-content: space-around;
+}
+
+.address__text {
+    display: flex;
+    justify-content: space-around;
+}
+
+.address__city {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__list {
+    display: flex;
+}
